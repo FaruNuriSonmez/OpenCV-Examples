@@ -47,7 +47,7 @@ Configure
          ;D:\opencv\build\x64\vc14\lib
          
   - Click the *Linker/Input* tab
-  - From *Additional Dependencies*, and click *Edit*
+  - From **Additional Dependencies**, and click *Edit*
   - Assuming you installed OpenCV to ``D:\opencv`` (the default), add this to the end of *Variable value*::
   
          ;opencv_world401d.lib
