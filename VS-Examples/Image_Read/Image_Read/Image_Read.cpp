@@ -13,7 +13,7 @@ int main()
 	Mat img = imread("opencv_logo.png");
 	if (img.empty())
 	{
-		cout << "Could not open ýmage" << endl;
+		cout << "Could not open image" << endl;
 	}
 	else
 	{
