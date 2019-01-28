@@ -18,7 +18,7 @@ Install
 Configure
 ^^^^^^^^^
 
-* Set PATH environment variable for OpenCV:
+* Set **PATH** environment variable for **OpenCV**:
 
   - Right-click **Computer**
   - Click **Properties**
@@ -29,7 +29,7 @@ Configure
   
          ;D:\opencv\build\x64\vc14\bin
          
-* Set Configuration Properties for C++ Project:
+* Set **Configuration Properties** for **C++ Project**:
    
   - Right-click **C++ Project**
   - Click **Properties**
