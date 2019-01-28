@@ -9,3 +9,4 @@ Install/Configure OpenCV 4.0 with VS2017
 -----------------
 
 * Install `VS2017 <https://visualstudio.microsoft.com/tr/downloads/>`_
+* Install `OpenCV 4.0 <https://opencv.org/releases.html>`_
