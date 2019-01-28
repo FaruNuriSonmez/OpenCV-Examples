@@ -28,3 +28,27 @@ Configure
   - Assuming you installed OpenCV to ``D:\opencv`` (the default), add this to the end of *Variable value*::
   
          ;D:\opencv\build\x64\vc14\bin
+         
+* Set Configuration Properties for C++ Project:
+   
+  - Right-click *C++ Project*
+  - Click *Properties*
+  - Go to the *Configuration Properties* tab
+  - Click the *C++/General* tab
+  - From *Additional Include Directories*, and click *Edit*
+  - Assuming you installed OpenCV to ``D:\opencv`` (the default), add this to the end of *Variable value*::
+    
+         ;D:\opencv\build\include
+         
+  - Click the *Linker/General* tab
+  - From *Additional Library Directories*, and click *Edit*
+  - Assuming you installed OpenCV to ``D:\opencv`` (the default), add this to the end of *Variable value*::
+  
+         ;D:\opencv\build\x64\vc14\lib
+         
+  - Click the *Linker/Input* tab
+  - From *Additional Dependencies*, and click *Edit*
+  - Assuming you installed OpenCV to ``D:\opencv`` (the default), add this to the end of *Variable value*::
+  
+         ;opencv_world401d.lib
+  
