@@ -20,7 +20,7 @@ Configure
 
 * Set PATH environment variable for OpenCV:
 
-- Right-click *Computer*
+  - Right-click *Computer*
   - Click *Properties*
   - Go to the *Advanced system settings* tab
   - Click the *Environment Variables* button
